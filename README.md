@@ -1,2 +1,2 @@
-# tSunamiBot24-7
+# tSunami-Bot
  
